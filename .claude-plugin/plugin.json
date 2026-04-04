@@ -1,0 +1,11 @@
+{
+  "name": "hwd-pipeline",
+  "version": "1.0.0",
+  "description": "HWD Design & Development Pipeline — 6-agent sequential system for web design projects",
+  "author": {
+    "name": "Herts Web Design",
+    "url": "https://hertswebdesign.co.uk"
+  },
+  "license": "MIT",
+  "keywords": ["web design", "pipeline", "hwd", "design", "development", "hertfordshire"]
+}
