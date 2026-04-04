@@ -132,22 +132,27 @@ Primary conversion action: [from Agent 2]
 ## 2. Target Audience
 [market section from PROJECT_CONTEXT]
 
-## 3. Design System
+## 3. Competitive Insights
+Top design patterns: [competitive.top_patterns_that_work]
+Key design gaps exploited: [competitive.design_gaps]
+Primary CTA approach: [competitive.cta_placement_patterns]
+
+## 4. Design System
 Build type: [custom | template]
 [colour_system CSS block]
 [typography_pairing CSS block]
 Homepage sections: [layout_sections]
 
-## 4. Asset List
+## 5. Asset List
 [assets section from PROJECT_CONTEXT]
 
-## 5. Component Build Order
+## 6. Component Build Order
 [components.component_inventory checklist]
 
-## 6. Performance Targets
+## 7. Performance Targets
 [performance section from PROJECT_CONTEXT]
 
-## 7. Development Notes
+## 8. Development Notes
 [Any cross-agent observations, conflicts resolved, or special instructions]
 ```
 

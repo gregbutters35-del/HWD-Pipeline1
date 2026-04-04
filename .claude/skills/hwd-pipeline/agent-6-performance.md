@@ -95,7 +95,7 @@ File: _headers (place in project root, deployed with site)
 | JS (minified) | < 20KB |
 | Fonts (WOFF2) | < 50KB per family |
 
-[Note: Fill in image budgets based on Agent 4 image count. Rule of thumb: budget 80–120KB per WebP hero image, 20–40KB per content image]
+[Calculate total page weight as: (hero images × 120KB) + (content images × 40KB) + 30KB CSS + 20KB JS + (font families × 50KB). Use this calculated figure for the "Total page weight" row. Use the image subtotal for the "All images combined" row.]
 
 ### Animation Performance Rules
 [If animations specified in Agent 3:]

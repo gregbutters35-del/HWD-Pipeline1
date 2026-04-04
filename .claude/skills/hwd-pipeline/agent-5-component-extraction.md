@@ -13,7 +13,7 @@ Ask this first. Wait for answer.
 
 > "Should I extract components based on the locked design from Agent 3, or do you want to revisit any design decisions before we define components?"
 
-If the user wants to revisit design: return to Agent 3 and resolve before continuing.
+If the user wants to revisit design: ask "Which specific decision do you want to change?" Address only that decision — do not re-run Agent 3's full question sequence. Update only the affected field(s) in PROJECT_CONTEXT.design, then proceed with component extraction using the updated values.
 
 ---
 

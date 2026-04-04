@@ -168,6 +168,6 @@ Supporting: [element]
 
 End with this exact phrase:
 
-> "Design direction locked. Colour system and typography generated via ckm:design-system. Passing to Visual Assets Agent."
+> "Design direction locked. Build type: [custom build | template: [template name]]. Colour system and typography generated via ckm:design-system. Passing to Visual Assets Agent."
 
 Then immediately begin Agent 4 by loading `agent-4-visual-assets.md`.

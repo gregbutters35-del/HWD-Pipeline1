@@ -32,11 +32,21 @@ After question 3, if the user confirms the client has no logo or needs a logo re
 
 Invoke `ckm:design` via the Skill tool to produce a logo design brief and direction.
 
+**If net-new logo (client has no logo):**
 Pass to ckm:design:
 - Business niche and name
 - Design preferences (from Agent 1: minimal/detailed, modern/traditional)
 - Colour system (from Agent 3: primary colours)
 - Audience (from Agent 1: demographic)
+
+**If logo redesign (client has an existing logo):**
+Pass to ckm:design:
+- Business niche and name
+- Existing logo description (ask the user: "Can you describe the current logo or share an image?")
+- What must change vs. what should be retained
+- Design preferences (from Agent 1)
+- Colour system (from Agent 3)
+- Audience (from Agent 1)
 
 This is the only point in the pipeline where logo/brand identity work is initiated.
 
