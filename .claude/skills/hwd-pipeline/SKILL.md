@@ -8,6 +8,8 @@ description: >
   populated PROJECT_CONTEXT development brief. Trigger phrases: "new project", "new client site",
   "start pipeline", "hwd pipeline".
 argument-hint: "[client name or niche]"
+commands:
+argument-hint: "[client name or niche]"
 ---
 
 # HWD Design & Development Pipeline
