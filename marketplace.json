@@ -1,0 +1,17 @@
+"name": "hwd-pipeline-local",
+  "owner": {
+    "name": "Oscar Fernandes",
+    "email": "oscarruif1@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "hwd-pipeline",
+      "source": {
+        "source": "local",
+        "path": "C:/Users/pidod/Desktop/hwd-pipeline"
+      },
+      "version": "1.0.0",
+      "description": "HWD Design and Development Pipeline Agent Team",
+      "category": "productivity"
+    }
+  ]
