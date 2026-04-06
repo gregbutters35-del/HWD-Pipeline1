@@ -1,17 +1,19 @@
-"name": "hwd-pipeline-local",
+{
+  "name": "HWD-pipeline1",
   "owner": {
-    "name": "Oscar Fernandes",
-    "email": "oscarruif1@gmail.com"
+    "name": "gregbutters35-del"
   },
   "plugins": [
     {
       "name": "hwd-pipeline",
       "source": {
-        "source": "local",
-        "path": "C:/Users/pidod/Desktop/hwd-pipeline"
+        "source": "github",
+        "repo": "gregbutters35-del/HWD-pipeline1"
       },
       "version": "1.0.0",
       "description": "HWD Design and Development Pipeline Agent Team",
-      "category": "productivity"
+      "category": "productivity",
+      "keywords": ["web design", "pipeline", "agents"]
     }
   ]
+}
